@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "824972717417",
+    "firebase_url": "https://examen-e667e.firebaseio.com",
+    "project_id": "examen-e667e",
+    "storage_bucket": "examen-e667e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824972717417:android:5d5070697726912a0d21f8",
+        "android_client_info": {
+          "package_name": "com.example.examen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824972717417-jtdvunjldfbr0vkcirmnurt6dpnd41el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1NWwWtPM1GXeD6IT_mefYADq29WQ6BMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824972717417-jtdvunjldfbr0vkcirmnurt6dpnd41el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
